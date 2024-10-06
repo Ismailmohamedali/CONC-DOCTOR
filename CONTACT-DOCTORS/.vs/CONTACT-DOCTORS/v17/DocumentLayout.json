@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\CONC-DOCTOR\\CONTACT-DOCTORS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACF9A2-5F71-4B20-B7B5-E8D35B0D2C98}|CONTACT-DOCTORS\\CONTACT-DOCTORS.csproj|c:\\users\\dell\\source\\repos\\conc-doctor\\contact-doctors\\contact-doctors\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BACF9A2-5F71-4B20-B7B5-E8D35B0D2C98}|CONTACT-DOCTORS\\CONTACT-DOCTORS.csproj|solutionrelative:contact-doctors\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACF9A2-5F71-4B20-B7B5-E8D35B0D2C98}|CONTACT-DOCTORS\\CONTACT-DOCTORS.csproj|c:\\users\\dell\\source\\repos\\conc-doctor\\contact-doctors\\contact-doctors\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BACF9A2-5F71-4B20-B7B5-E8D35B0D2C98}|CONTACT-DOCTORS\\CONTACT-DOCTORS.csproj|solutionrelative:contact-doctors\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACF9A2-5F71-4B20-B7B5-E8D35B0D2C98}|CONTACT-DOCTORS\\CONTACT-DOCTORS.csproj|c:\\users\\dell\\source\\repos\\conc-doctor\\contact-doctors\\contact-doctors\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BACF9A2-5F71-4B20-B7B5-E8D35B0D2C98}|CONTACT-DOCTORS\\CONTACT-DOCTORS.csproj|solutionrelative:contact-doctors\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACF9A2-5F71-4B20-B7B5-E8D35B0D2C98}|CONTACT-DOCTORS\\CONTACT-DOCTORS.csproj|c:\\users\\dell\\source\\repos\\conc-doctor\\contact-doctors\\contact-doctors\\contact-doctors.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6BACF9A2-5F71-4B20-B7B5-E8D35B0D2C98}|CONTACT-DOCTORS\\CONTACT-DOCTORS.csproj|solutionrelative:contact-doctors\\contact-doctors.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACF9A2-5F71-4B20-B7B5-E8D35B0D2C98}|CONTACT-DOCTORS\\CONTACT-DOCTORS.csproj|c:\\users\\dell\\source\\repos\\conc-doctor\\contact-doctors\\contact-doctors\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BACF9A2-5F71-4B20-B7B5-E8D35B0D2C98}|CONTACT-DOCTORS\\CONTACT-DOCTORS.csproj|solutionrelative:contact-doctors\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACF9A2-5F71-4B20-B7B5-E8D35B0D2C98}|CONTACT-DOCTORS\\CONTACT-DOCTORS.csproj|c:\\users\\dell\\source\\repos\\conc-doctor\\contact-doctors\\contact-doctors\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BACF9A2-5F71-4B20-B7B5-E8D35B0D2C98}|CONTACT-DOCTORS\\CONTACT-DOCTORS.csproj|solutionrelative:contact-doctors\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CONC-DOCTOR\\CONTACT-DOCTORS\\CONTACT-DOCTORS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CONTACT-DOCTORS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CONC-DOCTOR\\CONTACT-DOCTORS\\CONTACT-DOCTORS\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "CONTACT-DOCTORS\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T19:37:46.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CONC-DOCTOR\\CONTACT-DOCTORS\\CONTACT-DOCTORS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CONTACT-DOCTORS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CONC-DOCTOR\\CONTACT-DOCTORS\\CONTACT-DOCTORS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CONTACT-DOCTORS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T19:34:10.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CONC-DOCTOR\\CONTACT-DOCTORS\\CONTACT-DOCTORS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CONTACT-DOCTORS\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CONC-DOCTOR\\CONTACT-DOCTORS\\CONTACT-DOCTORS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CONTACT-DOCTORS\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T19:28:03.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CONC-DOCTOR\\CONTACT-DOCTORS\\CONTACT-DOCTORS\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "CONTACT-DOCTORS\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CONC-DOCTOR\\CONTACT-DOCTORS\\CONTACT-DOCTORS\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "CONTACT-DOCTORS\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T14:47:32.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CONC-DOCTOR\\CONTACT-DOCTORS\\CONTACT-DOCTORS\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "CONTACT-DOCTORS\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CONC-DOCTOR\\CONTACT-DOCTORS\\CONTACT-DOCTORS\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "CONTACT-DOCTORS\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:46:59.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CONTACT-DOCTORS.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CONC-DOCTOR\\CONTACT-DOCTORS\\CONTACT-DOCTORS\\CONTACT-DOCTORS.csproj",
+              "RelativeDocumentMoniker": "CONTACT-DOCTORS\\CONTACT-DOCTORS.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CONC-DOCTOR\\CONTACT-DOCTORS\\CONTACT-DOCTORS\\CONTACT-DOCTORS.csproj",
+              "RelativeToolTip": "CONTACT-DOCTORS\\CONTACT-DOCTORS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-04T14:02:20.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

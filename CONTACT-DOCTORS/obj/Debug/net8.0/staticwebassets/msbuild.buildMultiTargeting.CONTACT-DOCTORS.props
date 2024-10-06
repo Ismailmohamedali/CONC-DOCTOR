@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CONTACT-DOCTORS.props" />
+</Project>
